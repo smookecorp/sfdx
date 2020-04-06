@@ -6,6 +6,8 @@
 .sfdx/
 .localdevserver/
 
+.VSCode
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
@@ -33,7 +35,3 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
-
-.sfdx
-.vscode
-.DS_Store
