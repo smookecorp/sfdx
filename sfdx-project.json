@@ -1,9 +1,7 @@
 {
   "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
+    { "path": "src/core", "default": true },
+    { "path": "src/utilities" }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
