@@ -1,10 +1,10 @@
 /**
-*Author:        
-*Company:       
-*Description:   
+*Author:       ssmooke
+*Company:      Smooke Corp
+*Description:  Custom exception handling class for custom written code 
 *History
 *<Date>        <Authors Name>     <Brief Description of Change>
-*                                    Initial version created.    
+* 4/6/2020         ssmooke           Initial version created.    
 **/
 public without sharing class ExceptionHandlingUtility {
 
