@@ -39,7 +39,7 @@ public without sharing class ExceptionHandlingUtility {
         String exMessage = '';
         Integer startPoint = -1;
 
-        log.OwnerId = System.Label.Error_Handling_Admin;
+        log.OwnerId = System.Label.Exception_Handling_Admin;
         if(dmlEx != null){
             log.Record_Id__c = dmlEx.getDMLId(0);
             exMessage = dmlEx.getMessage();
