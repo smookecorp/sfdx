@@ -6,4 +6,3 @@ export default class HelloWorld extends LightningElement {
         this.greeting = event.target.value;
     }
 }
-    

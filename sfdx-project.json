@@ -1,9 +1,9 @@
 {
-  "packageDirectories": [
-    { "path": "src/core", "default": true },
-    { "path": "src/utilities" }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "48.0"
+    "packageDirectories": [
+        { "path": "src/core","default": true },
+        { "path": "src/utilities" }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0"
 }
