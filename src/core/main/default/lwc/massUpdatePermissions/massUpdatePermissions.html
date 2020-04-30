@@ -1,0 +1,11 @@
+<template>
+    <div class="c-container">
+        <lightning-card>
+            <div style="height: 300px;">
+                <c-data-table key-field="Id" data={data} columns={columns} onsomething={applyChange} onpicklistchanged={picklistChanged} onvalueselect={handleSelection}></c-data-table>
+            </div>
+        </lightning-card>
+    </div>
+
+
+</template>
